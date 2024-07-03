@@ -1,0 +1,19 @@
+.odd-nos {
+    background-color: rgb(255, 136, 136);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#no-2 {
+    color:blue;
+    font-size: 36px;
+}
+
+#no-3 {
+    font-size: 24px;
+}
+
+#no-4 {
+    font-size: 24px;
+    background-color: lightgreen;
+    font-weight: bold;
+}
